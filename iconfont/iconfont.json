@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "630092",
+      "name": "向下箭头",
+      "font_class": "xiangxiajiantou",
+      "unicode": "e65e",
+      "unicode_decimal": 58974
+    },
+    {
+      "icon_id": "9524653",
+      "name": "推荐",
+      "font_class": "tuijian",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "20284842",
+      "name": "github",
+      "font_class": "github",
+      "unicode": "e7b2",
+      "unicode_decimal": 59314
+    }
+  ]
+}
