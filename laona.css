@@ -11,7 +11,7 @@
 .header {
     width: 390px;
     height: 50px;
-    background-color: brown;
+    background-color:cadetblue;
     margin: 0 auto;
     display: block;
 }.header > img {
